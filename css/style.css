@@ -150,7 +150,7 @@ header .logo {
 .about {
     position: absolute;
     margin-top: 100vh;
-    background: url('./assets/bg-2.jpg');
+    background: url('../assets/bg-2.jpg');
     background-color: rgba(0,0,0,0.7);
     background-blend-mode: multiply;
     background-size: cover;
